@@ -1,0 +1,76 @@
+{
+  "books": [
+    {
+      "_id": "book1",
+      "image": "/images/book1.jpg",
+      "title": "The Happiness of Pursuit",
+      "description": "When he set out to visit all of the planet’s countries by age thirty-five, compulsive goal-seeker Chris Guillebeau never imagined that his journey’s biggest revelation would be how many people like himself exist—each pursuing a challenging quest. These quests are as diverse as humanity itself, involving exploration, the pursuit of athletic or artistic excellence, or battling against injustice and poverty. Everywhere that Chris visited he found ordinary people working toward extraordinary goals, making daily down payments on their dreams. These “questers” included a suburban mom pursuing a wildly ambitious culinary project, a DJ producing the world’s largest symphony, a young widower completing the tasks his wife would never accomplish—and scores of others writing themselves into the record books.",
+      "availableGenre": ["Real Life", "Inspiring", "Moral", "Motivation"],
+      "author":"Chris Gardner",
+      "price": 29.9
+    },
+    {
+      "_id": "book2",
+      "image": "/images/book2.jpg",
+      "title": "Think and Grow Rich",
+      "description": "Think and Grow Rich has been called the Granddaddy of All Motivational Literature. It was the first book to boldly ask, What makes a winner? The man who asked and listened for the answer, Napoleon Hill, is now counted in the top ranks of the world's winners himself.The most famous of all teachers of success spent a fortune and the better part of a lifetime of effort to produce the Law of Success philosophy that forms the basis of his books and that is so powerfully summarized in this one.",
+      "availableGenre": ["Real Life", "Inspiring", "Moral", "Motivation"],
+      "author":"Napolean Hills",
+      "price": 18.9
+    },
+    {
+      "_id": "book3",
+      "image": "/images/book3.jpg",
+      "title": "Rich Dad Poor Dad",
+      "description": "Rich Dad Poor Dad is Robert's story of growing up with two dads — his real father and the father of his best friend, his rich dad — and the ways in which both men shaped his thoughts about money and investing. The book explodes the myth that you need to earn a high income to be rich and explains the difference between working for money and having your money work for you.",
+      "availableGenre": ["Real Life", "Inspiring", "Moral", "Motivation"],
+      "author":"Napolean Hills",
+      "price": 14.9
+    },
+    {
+      "_id": "book4",
+      "image": "/images/book4.jpg",
+      "title": "The Psychology of Money: Timeless lessons on wealth, greed, and happiness ",
+      "description": "In The Psychology of Money, award-winning author Morgan Housel shares 19 short stories exploring the strange ways people think about money and teaches you how to make better sense of one of life’s most important topics.",
+      "availableGenre": ["Real Life", "Inspiring", "Moral", "Motivation","Money Investing","Finance"],
+      "author":"Morgan Housel",
+      "price": 25.9
+    },
+    {
+      "_id": "book5",
+      "image": "/images/book5.jpg",
+      "title": "The Woman Outside My Door ",
+      "description": "When the passing of Georgina’s mother coincides with her son meeting someone named New Granny at the park, she becomes instantly suspicious. Still, she reminds herself that all children have imaginary friends and this must be the case with her son Cody. However, despite her husband’s assurances that it’s all just a game, Georgina worries that New Granny isn’t so imaginary after all. ",
+      "availableGenre": ["Real Life", "Thirller","Suspense"],
+      "author":"Rachel Ryan",
+      "price": 10.9
+    },
+    {
+      "_id": "book6",
+      "image": "/images/book6.jpg",
+      "title": "Not My Boy",
+      "description": "Hannah and her son are focused on a fresh start when the move to the cottage next-door to her sister. But when a young local girl goes missing just days after they arrive, her son quickly falls under suspicion. As accusations begin to fly, two sisters become divided, defending their families, and their futures, at all costs.",
+      "availableGenre": ["Real Life", "Thirller","Suspense"],
+      "author":"Kelly Simmons",
+      "price": 49.9
+    },
+    {
+      "_id": "book7",
+      "image": "/images/book7.jpg",
+      "title": "The Hound of the Baskervilles, A Study in Scarlet, The Sign of Four",
+      "description": "A Study in Scarlet, a tale of Mormons and murder, is a drama of long-simmering revenge that plays out on the gaslit streets of London but has its dark roots in the pioneer settlements of Utah. The Sign of Four weaves together a stolen treasure from India, poison darts, and double-crossing thieves, while The Hound of the Baskervilles sets the legend of a diabolical hellhound and an old family curse against the backdrop of a desolate, moonlit moor. All three novels are gripping, timeless, and exquisitely plotted—beloved and indispensable classics of the detective genre.",
+      "availableGenre": ["Fiction", "Thirller","Suspense","Crime","Murder Mystry"],
+      "author":"Artur Canon Doyle",
+      "price": 49.9
+    },
+    {
+      "_id": "book8",
+      "image": "/images/book8.jpg",
+      "title": "The Adventures of Sherlock Holmes",
+      "description": "This collection of The Adventures of Sherlock Holmes and the Memoirs of Sherlock Holmes includes many of the famous cases – and great strokes of brilliance – that made the legendary detective one of fiction’s most popular creations. With his devoted amanuensis Dr Watson, Holmes emerges from his smoke-filled room in Baker Street to grapple with the forces of treachery, intrigue and evil in such cases as ‘The Speckled Band’, in which a terrified woman begs their help in solving the mystery surrounding her sister’s death, or ‘A Scandal in Bohemia’, which portrays a European king blackmailed by his mistress. In ‘Silver Blaze’ the pair investigate the disappearance of a racehorse and the violent murder of its trainer, while in ‘The Final Problem’ Holmes at last comes face to face with his nemesis, the diabolical Professor Moriarty – ‘the Napoleon of crime’.",
+      "availableGenre": ["Fiction", "Thirller","Suspense","Crime","Murder Mystry"],
+      "author":"Artur Canon Doyle",
+      "price": 49.9
+    }
+     ]
+}
